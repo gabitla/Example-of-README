@@ -18,7 +18,7 @@
 
 ---
 
-## Description
+## Description 🏫
 AppSchool is a system designed to optimize the administration and organization of small schools and academies, offering an integrated solution that centralizes academic and administrative processes. Focused on digitization and modernization, it aims to solve common problems such as information dispersion, manual processes, and inefficient communication.
 
 ---
