@@ -35,11 +35,6 @@ The system is designed as a microservice-based architecture deployed on AWS. The
 - Go
 - Ruby
 - PHP
-  
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Python][Python.com]][Python-url]
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
