@@ -1,6 +1,6 @@
 ![LogoAppSchool](https://github.com/gabitla/Example-of-README/blob/main/LogoAppSchool.jpg)
 
-## Table of Contents
+## Table of Contents 📋
 1. [Description](#description)
 2. [Project Status](#project-status)
 3. [Key Features](#key-features)
@@ -41,11 +41,26 @@ The project is currently under development.
 
 ### Microservices
 The system is designed as a microservice-based architecture deployed on AWS. The microservices include:
-- User management
-- Course management
-- Schedule management
-- Notification service
-- Report generation
+- User Management
+- Authentication and Authorization
+- Student Registration
+- Teacher Management
+- Course and Subject Management
+- Schedule Management
+- Grades Management
+- Academic History for Students
+- Attendance Tracking
+- Real-Time Notifications
+- Chat for Teachers and Students
+- School Events Management
+- Frequently Accessed Cache
+- Activity Logs System
+- Search for Students and Teachers
+- Document Upload and Download
+- Educational Material Management
+- Email Notifications
+- Automatic Evaluation System
+- Report Generation
 
 ### Programming Languages
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,10 +77,13 @@ The system is designed as a microservice-based architecture deployed on AWS. The
 - ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### AWS Services
+![AWS Services](https://img.shields.io/badge/AWS_Services-orange?style=for-the-badge&logo=amazon)
+
 - **Load Balancer** for load balancing
 - **API Gateway** for centralized request handling
 - **S3** for backup storage
 - **Auto Scaling Group** for scalability
+
 
 ---
 
