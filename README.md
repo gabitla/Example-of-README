@@ -1,75 +1,75 @@
 # AppSchool
 
-## Descripción
-AppSchool es un sistema diseñado para optimizar la administración y organización de escuelas pequeñas y academias, ofreciendo una solución integral que centraliza procesos académicos y administrativos. Con un enfoque en la digitalización y modernización, busca resolver problemas comunes como dispersión de información, procesos manuales y comunicación ineficiente.
+## Description
+AppSchool is a system designed to optimize the administration and organization of small schools and academies, offering an integrated solution that centralizes academic and administrative processes. Focused on digitization and modernization, it aims to solve common problems such as information dispersion, manual processes, and inefficient communication.
 
 ---
 
-## Estado del Proyecto
-Actualmente, el proyecto se encuentra en desarrollo.
+## Project Status
+The project is currently under development.
 
 ---
 
-## Características Principales
-1. **Gestión de Usuarios**: Registro y administración de estudiantes y profesores.
-2. **Calificaciones y Asistencia**: Control detallado y en tiempo real.
-3. **Horarios y Asignaturas**: Planificación eficiente para optimizar tiempos.
-4. **Comunicación**: Chat interactivo, notificaciones en tiempo real y por correo electrónico.
-5. **Generación de Reportes**: Análisis del rendimiento académico con reportes automatizados.
+## Key Features
+1. **User Management**: Registration and management of students and teachers.
+2. **Grades and Attendance**: Detailed and real-time tracking.
+3. **Schedules and Courses**: Efficient planning to optimize time.
+4. **Communication**: Interactive chat, real-time notifications, and email alerts.
+5. **Report Generation**: Academic performance analysis with automated reports.
 
 ---
 
-## Arquitectura y Tecnologías
+## Architecture and Technologies
 
-### Microservicios
-El sistema está diseñado como una arquitectura basada en microservicios, desplegada en AWS. Los microservicios incluyen:
-- Gestión de usuarios
-- Gestión de cursos
-- Gestión de horarios
-- Servicio de notificaciones
-- Generación de reportes
+### Microservices
+The system is designed as a microservice-based architecture deployed on AWS. The microservices include:
+- User management
+- Course management
+- Schedule management
+- Notification service
+- Report generation
 
-### Lenguajes de Programación
+### Programming Languages
 - JavaScript
 - Python
 - Go
 - Ruby
 - PHP
 
-### Bases de Datos
-- PostgreSQL para datos relacionales
-- DynamoDB para gestión de disponibilidad
-- SQLite para tareas locales
-- Redshift para análisis y reportes
-- MongoDB para almacenamiento de datos no relacionales
+### Databases
+- PostgreSQL for relational data
+- DynamoDB for availability management
+- SQLite for local tasks
+- Redshift for analysis and reporting
+- MongoDB for non-relational data storage
 
-### Servicios AWS
-- **Load Balancer** para balanceo de carga
-- **API Gateway** para manejo centralizado de solicitudes
-- **S3** para almacenamiento de respaldos
-- **Auto Scaling Group** para escalabilidad
+### AWS Services
+- **Load Balancer** for load balancing
+- **API Gateway** for centralized request handling
+- **S3** for backup storage
+- **Auto Scaling Group** for scalability
 
 ---
 
-## Instalación
+## Installation
 
-### Prerrequisitos
-- Docker y Docker Compose instalados.
-- Cuenta configurada en AWS.
+### Prerequisites
+- Docker and Docker Compose installed.
+- AWS account configured.
 
-### Clonación del Repositorio
-Clona el proyecto desde GitHub:
+### Clone the Repository
+Clone the project from GitHub:
 ```bash
 git clone https://github.com/gabriel9818/appSchool.git
 ```
 
-### Configuración de Docker Compose
-Ejecuta el siguiente comando para iniciar los microservicios (rellenar configuraciones según sea necesario):
+### Docker Compose Configuration
+Run the following command to start the microservices (fill in configurations as needed):
 ```bash
 docker-compose up -d
 ```
 
-Ejemplo de un archivo `docker-compose.yml`:
+Example `docker-compose.yml` file:
 ```yaml
 version: '3.8'
 services:
@@ -88,11 +88,12 @@ services:
 
 ---
 
-## Créditos
+## Credits
 - Gabriel Ruales
 - Gabriela Tumbaco
 
 ---
 
-## Contacto
-Repositorio oficial: [GitHub](https://github.com/gabriel9818/appSchool)
+## Contact
+Official repository: [GitHub](https://github.com/gabriel9818/appSchool)
+
