@@ -1,5 +1,23 @@
 # AppSchool
 
+## Table of Contents
+1. [Description](#description)
+2. [Project Status](#project-status)
+3. [Key Features](#key-features)
+4. [Architecture and Technologies](#architecture-and-technologies)
+    - [Microservices](#microservices)
+    - [Programming Languages](#programming-languages)
+    - [Databases](#databases)
+    - [AWS Services](#aws-services)
+5. [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Clone the Repository](#clone-the-repository)
+    - [Docker Compose Configuration](#docker-compose-configuration)
+6. [Credits](#credits)
+7. [Contact](#contact)
+
+---
+
 ## Description
 AppSchool is a system designed to optimize the administration and organization of small schools and academies, offering an integrated solution that centralizes academic and administrative processes. Focused on digitization and modernization, it aims to solve common problems such as information dispersion, manual processes, and inefficient communication.
 
@@ -30,20 +48,18 @@ The system is designed as a microservice-based architecture deployed on AWS. The
 - Report generation
 
 ### Programming Languages
-- JavaScript
-- Python
-- Go
-- Ruby
-- PHP
-
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Databases
-- PostgreSQL for relational data
-- DynamoDB for availability management
-- SQLite for local tasks
-- Redshift for analysis and reporting
-- MongoDB for non-relational data storage
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+- ![Redshift](https://img.shields.io/badge/Redshift-8C2A00?style=for-the-badge&logo=amazonredshift&logoColor=white)
+- ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### AWS Services
 - **Load Balancer** for load balancing
@@ -98,4 +114,6 @@ services:
 
 ## Contact
 Official repository: [GitHub](https://github.com/gabriel9818/appSchool)
+
+
 
