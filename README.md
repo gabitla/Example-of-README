@@ -1,4 +1,4 @@
-
+![LogoAppSchool](https://github.com/gabitla/Example-of-README/blob/main/LogoAppSchool.jpg)
 <h1 align="center">----------- AppSchool -----------</h1> 
 
 ## Table of Contents
