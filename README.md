@@ -37,7 +37,7 @@ The project is currently under development.
 
 ---
 
-## Architecture and Technologies
+## Architecture and Technologies 👩‍💻
 
 ### Microservices
 The system is designed as a microservice-based architecture deployed on AWS. The microservices include:
@@ -106,7 +106,7 @@ services:
 
 ---
 
-## Credits
+## Credits img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"
 - Gabriel Ruales
 - Gabriela Tumbaco
 
