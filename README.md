@@ -38,7 +38,7 @@ The project is currently under development.
 ---
 
 ## Architecture and Technologies 👩‍💻
-![arquitecture_appschool](https://github.com/gabitla/Example-of-README/blob/main/arquitecture_app.png)
+![arquitecture_appschool](https://github.com/gabitla/Example-of-README/blob/main/app_arquitecture2.jpg)
 ### Microservices
 The system is designed as a microservice-based architecture deployed on AWS. The microservices include:
 - User Management
